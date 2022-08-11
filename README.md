@@ -16,7 +16,9 @@
 ### 代码复制法
 通过下载Release中后面代_coder后缀的txt文件复制粘贴代码到主题的emotions.php中，方法较为繁琐。**但可安装多个主题插件**
 
-Changelog:
-v1.22
+## Changelog:
+### v1.22
+
 1.正式版本
+
 2.在线版Emoji图片，节省带宽开支
