@@ -6,6 +6,7 @@
 简体中文&nbsp;/&nbsp;[English](./README_en.md)
 
 适用于Argon-Theme的一套微软Fluent表情包
+![](https://raw.githubusercontent.com/WenClubCenter/Wen-Argon-Emoji-Fluent/main/%E8%89%BA%E6%9C%AF/readme_banner.webp)
 ## 使用方法
 由于本人技术较差，现提供两种方法供使用（有好的建议可以提issues）： 
 ### 插件安装法
